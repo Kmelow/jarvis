@@ -1,10 +1,10 @@
-# 🧙‍♂️ J.A.R.W.I.S.
+# 🧙‍♂️ J.A.R.V.I.S.
 
-> Just A Rather Web Intelligent System
+> Just A Rather Veritable Intelligent System
 
 :rocket: Blazing fast companion for 🧑‍💻 SW development.
 
-🧙‍♂️ J.A.R.W.I.S. will be FREE and Open Source desktop app that runs on Mac, Windows and Linux that contains most of the tools needed for Software Development.
+🧙‍♂️ J.A.R.V.I.S. is a FREE and Open Source desktop app that runs on Mac, Windows and Linux that contains most of the tools needed for Software Development.
 
 It is built with Rust ([Tauri](https://tauri.app/)) and TypeScript ([React](https://reactjs.org/)).
 
